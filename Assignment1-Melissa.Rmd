@@ -1,12 +1,13 @@
 ---
 title: "Assignment 1"
-author: 'Your name'
+author: 'Melissa Martinez'
 output: html_document
 ---
 ## Professional Background  ***  
 * Social Media Manager at Durée & Company in Fort Lauderdale  
 * Content Strategist at Beachy Media in NYC  
-* PR & Marketing Coordinator at Crabtree & Evelyn in London  * Design and Marketing Coordinator at Dreamers & Creators in London
+* PR & Marketing Coordinator at Crabtree & Evelyn in London  
+* Design and Marketing Coordinator at Dreamers & Creators in London
 
 ## Interests  ***  
 Reading, watching films, dancing, photography, filmmaking, traveling, and cooking. 
