@@ -3,16 +3,16 @@ title: "Assignment 1"
 author: 'Melissa Martinez'
 output: html_document
 ---
-## Professional Background  ***  
+## Professional Background   
 * Social Media Manager at Durée & Company in Fort Lauderdale 
 * Content Strategist at Beachy Media in NYC  
 * PR & Marketing Coordinator at Crabtree & Evelyn in London  
 * Design and Marketing Coordinator at Dreamers & Creators in London
 
-## Interests  ***  
+## Interests   
 Reading, watching films, dancing, photography, filmmaking, traveling, and cooking. 
 
-## Skills  ***  
+## Skills   
 Fluent in Spanish & Italian. Conversational in French & Greek.  Proficient in Microsoft Office, Adobe Creative Suite & Final Cut Pro.
 
 ```{r}
